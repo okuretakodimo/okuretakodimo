@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okuretakodimo
 - 👀 I’m interested in Coding bots
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: joshuashort219@icloud.com or text me at (915) 487-8696
+- 📫 How to reach me: joshuashort219@icloud.com
 <!---
 okuretakodimo/okuretakodimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
